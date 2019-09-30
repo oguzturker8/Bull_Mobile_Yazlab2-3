@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "652007032196",
+    "firebase_url": "https://bull-41.firebaseio.com",
+    "project_id": "bull-41",
+    "storage_bucket": "bull-41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652007032196:android:70eb690f0d60a138",
+        "android_client_info": {
+          "package_name": "com.xavame.bull"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652007032196-mauibq0gudiq8ererfu87jcmamhv20n2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBET8tcjSw1h2YfyIhz8glqFA8kXboUnww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652007032196-mauibq0gudiq8ererfu87jcmamhv20n2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
